@@ -1,0 +1,8 @@
+{
+  "name": "宇宙流：星系界面",
+  "description": "A real-time interactive galaxy simulation controlled by hand movements, featuring procedural audio and AI-generated cosmic insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
